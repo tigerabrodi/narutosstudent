@@ -32,6 +32,8 @@ I'd describe myself as a craftsman who strives for quality and accessible soluti
 
 - Jest
 
+- GraphQL
+
 - Styled Components
 
 - Firebase
