@@ -20,7 +20,7 @@ I'd describe myself as a craftsman who strives for quality and accessible soluti
 
 - ✍️ My favorite articles written (so far): [Advice for new software developers](https://tigerabrodi.hashnode.dev/advice-for-new-software-developers), [Common Accessibility Errors](https://tigerabrodi.hashnode.dev/common-accessibility-errors), [A guide to debugging](https://tigerabrodi.hashnode.dev/a-guide-to-debugging), [Web Security Fundamentals](https://tigerabrodi.hashnode.dev/web-security-fundamentals-1), [Interviewing software developers](https://tigerabrodi.hashnode.dev/interviewing-software-developers), [Software Craftsmanship](https://tigerabrodi.hashnode.dev/software-craftsmanship), [https://tigerabrodi.hashnode.dev/learning-as-a-software-developer](https://tigerabrodi.hashnode.dev/learning-as-a-software-developer) and [Working with legacy code](https://tigerabrodi.hashnode.dev/working-with-legacy-code) 💕
 
-### Tech Stack ⚒️
+### Technologies I've worked with ⚒️
 
 - React
 
@@ -37,6 +37,14 @@ I'd describe myself as a craftsman who strives for quality and accessible soluti
 - Firebase
 
 - TypeScript
+
+- Pentf
+
+- Puppeteer
+
+- Storybook
+
+- Mock Service Worker
 
 ### Community & OSS 🥰
 
