@@ -6,7 +6,7 @@ I'm a Frontend Developer based in Germany 🌳
 
 ### About Me 💕
 
-I'd describe myself as a craftsman who strives for quality and accessible solutions 🌠
+I'd describe myself as a craftsman who crafts quality and accessible solutions 🌠
 
 - Heavily into Accessibility, Testing, Development Methodologies and Programming Disciplines 👏 💪
 
