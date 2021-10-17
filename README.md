@@ -53,3 +53,6 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
 I also contribute to Open Source and volunteer in communities (KCD, Testing Library, OSRG, react-i18next, Mock Service Worker) 🚀 💞
 
 [![Tiger's github stats](https://github-readme-stats.vercel.app/api?username=tigerabrodi)](https://github.com/tigerabrodi)
+
+![Naruto's_Sage_Mode](https://user-images.githubusercontent.com/49603590/137616283-f92bf83d-43a8-496f-91ec-a98595450ba5.png)
+
