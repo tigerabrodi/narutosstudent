@@ -16,7 +16,7 @@ I'd describe myself as a craftsman who crafts quality and accessible solutions �
 
 ### Community & OSS 🥰
 
-I also contribute to Open Source and volunteer in communities (KCD, Vitest, tinypool, Testing Library, OSRG, react-i18next, Mock Service Worker) 🚀 💞
+I also contribute to Open Source and volunteer in communities (KCD, Vitest, Testing Library, OSRG, react-i18next, Mock Service Worker) 🚀 💞
 
 [![Tiger's github stats](https://github-readme-stats.vercel.app/api?username=tigerabrodi)](https://github.com/tigerabrodi)
 
