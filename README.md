@@ -1,6 +1,6 @@
 typescript, react, remix, solid.js...
 
-![download](https://user-images.githubusercontent.com/49603590/182013635-7795d582-54b1-4d25-a81d-5879d7fa6fad.jpeg)
+![657a041aea1730cc2a679d542e935fd4](https://user-images.githubusercontent.com/49603590/182013650-8c173fe6-ca79-4fea-b554-d6562e52afb6.jpg)
 
 
 ![naruto wallpaper 209 - 1920x1080](https://user-images.githubusercontent.com/49603590/181182796-12019d1f-97de-4ef1-ad11-e47caf4bb25d.jpg)
