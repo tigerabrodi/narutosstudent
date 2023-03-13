@@ -1,4 +1,3 @@
 typescript, react, remix, astro, solid.js, cloud...
 
-![Screenshot from 2022-11-30 07-06-03](https://user-images.githubusercontent.com/49603590/204720308-83885cc4-a20e-4103-86d9-46142755ee3a.png)
-
+![Screenshot from 2023-03-13 08-06-56](https://user-images.githubusercontent.com/49603590/224631291-18ceaa9e-4797-4a9d-a00a-f5fe8516b28f.png)
