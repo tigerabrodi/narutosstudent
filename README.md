@@ -1,19 +1,10 @@
 # 👋
 
-I love to code. TypeScript and C is my current jam. 🤘
+I love to code. TypeScript and Remix is my jam. 🤘
 
 I write on both my blog and newsletter.
 
-I read on average two books weekly. If it isn't self-improvement, business or programming, I enjoy history.
-
-My story summarized:
-
-1. Moved from Sweden to Germany at 14.
-2. Lost two academic years.
-3. Dropped out of high school at 19 and began working as a Junior Frontend Developer.
-4. Got my first promotion in 10 months.
-5. 1.5 years later I landed two Senior Software Engineering offers.
-6. Today? Pedal harder, loving the grind.
+I like to read. 📚
 
 All about me:
 
