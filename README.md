@@ -22,7 +22,7 @@ Others:
 
 I love to code. TypeScript and Remix is my jam. 🤘
 
-Obsessed about crafting quality software: Performant, clean, tested, and accessible.
+Obsessed about crafting quality software: Performant, clean, tested and accessible.
 
 I write on both my blog and newsletter.
 
