@@ -11,6 +11,7 @@ Tech:
 - Prisma
 - Zod
 - GCP
+- AWS
 - Terraform
 
 Others:
