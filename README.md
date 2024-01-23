@@ -1,42 +1,19 @@
-# 👋
+# Technologies
 
-Tech:
+TypeScript / Node / Remix / React / CSS / Firebase / Prisma / Zod / GCP / AWS / Terraform
 
-- TypeScript
-- Node
-- Remix
-- React
-- CSS
-- Firebase
-- Prisma
-- Zod
-- GCP
-- AWS
-- Terraform
-
-Others:
+# Other stuff
 
 - TDD
 - Web Accessibility
 - Product/Domain focused mindset
 - Team building/knowledge sharing
 
-I love to code. TypeScript and Remix is my jam. 🤘
+Obsessed about crafting quality software: Performant, clean, tested and accessible. 💕
 
-Obsessed about crafting quality software: Performant, clean, tested and accessible.
+# Hobbies
 
-I write on both my blog and newsletter.
+Gym and Anime lol
 
-I like to read. 📚
+![cb77c2dd4276fa53087ffd74ec5a585e](https://github.com/narutosstudent/narutosstudent/assets/49603590/943fb69d-b14e-4ff8-bfdc-4a1735339720)
 
-All about me:
-
-- Programming
-- Writer
-- Naruto
-- Anime
-- Fitness
-- Martial Arts
-- Love to read
-
-![image](https://github.com/narutosstudent/narutosstudent/assets/49603590/ba1f5733-daeb-4ac5-9b08-66fe23bcdede)
