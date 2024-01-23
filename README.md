@@ -11,7 +11,7 @@ TypeScript / Node / Remix / React / CSS / Firebase / Prisma / Zod / GCP / AWS / 
 
 Obsessed about crafting quality software: Performant, clean, tested and accessible. 💕
 
-# Hobbies
+# Hobbies (besides programming lmao)
 
 Gym and Anime lol
 
