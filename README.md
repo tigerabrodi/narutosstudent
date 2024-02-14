@@ -1,17 +1,28 @@
-# Technologies
+### Hiya 👋
 
-TypeScript / Node / Remix / React / CSS / Firebase / Prisma / Zod / GCP / AWS / Terraform
+I'm Tiger.
 
-# Other stuff
+I'd describe myself as a fullstack product developer. I'm not too fond of associating technologies with myself as I'm very product oriented, but here are ones I've worked with:
+
+- TypeScript
+- Node
+- Remix
+- React
+- Firebase
+- Prisma
+- Zod
+- GCP
+- AWS
+- Terraform
+
+### Other things I'm passionate about
 
 - TDD
 - Web Accessibility
 - Product/Domain focused mindset
 - Team building/knowledge sharing
 
-Obsessed about crafting quality software: Performant, clean, tested and accessible. 💕
-
-# Hobbies (besides programming lmao)
+### Hobbies (besides programming lmao)
 
 Gym and Anime lol
 
