@@ -2,7 +2,7 @@
 
 I'm Tiger.
 
-I'd describe myself as a fullstack product developer. I'm not too fond of associating technologies with myself as I'm very product oriented, but here are ones I've worked with:
+I'd describe myself as a fullstack product developer. I'm not too fond of associating technologies with myself as I'm product oriented, but here are ones I've worked with:
 
 - TypeScript
 - Node
